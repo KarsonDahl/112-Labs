@@ -1,0 +1,5 @@
+﻿  Employee.cpp
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab3_DahlK\Lab3_DahlK\Employee.cpp(134,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Lab3_DahlK.vcxproj -> C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab3_DahlK\x64\Debug\Lab3_DahlK.exe

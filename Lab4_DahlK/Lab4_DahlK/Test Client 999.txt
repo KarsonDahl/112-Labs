@@ -1,0 +1,41 @@
+------------------------------------------------------
+                     Test Client 999
+                      Final Invoice
+------------------------------------------------------
+
+WePaintHouses LLC
+1971 University Blvd
+Lynchburg, VA 24502
+(434) 4554-545
+wepainthousesllc.com
+
+Billed to: Test Client 999
+
+-----------------------------------------------------
+                  Labor Charges
+               -----------------
+Rooms     Number of coats    Hourly Rate        Total
+15        33                 18.50            $610.50
+
+                Product Charges
+               -----------------
+Room #    Paint Cans         Unit Cost         Amount
+1         10                 70.35             703.50
+2         1                  70.35              70.35
+3         137                70.35            9637.95
+4         2                  70.35             140.70
+5         1                  70.35              70.35
+6         3                  70.35             211.05
+7         8                  70.35             562.80
+8         9                  70.35             633.15
+9         1                  70.35              70.35
+Total Product Charges:                      $12100.20
+
+                 Travel Charges
+               -----------------
+Mileage                      Rate Per Mile      Total
+157.00                       0.67             $105.19
+
+Final Total:                                $12815.89
+-----------------------------------------------------
+

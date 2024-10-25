@@ -1,0 +1,5 @@
+﻿  PaintDriver.cpp
+  Room.cpp
+  Generating Code...
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab2_DahlK\Lab2_DahlK\Room.cpp(128,1): warning C4715: 'Room::setRoom': not all control paths return a value
+  Lab2_DahlK.vcxproj -> C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab2_DahlK\x64\Debug\Lab2_DahlK.exe
