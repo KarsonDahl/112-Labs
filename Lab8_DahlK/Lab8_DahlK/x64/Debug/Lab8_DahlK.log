@@ -1,0 +1,17 @@
+﻿  Inventory.cpp
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\Lab8_DahlK\Inventory.cpp(277,47): warning C4305: 'argument': truncation from 'double' to '_Ty'
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\Lab8_DahlK\Inventory.cpp(277,47): warning C4305:         with
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\Lab8_DahlK\Inventory.cpp(277,47): warning C4305:         [
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\Lab8_DahlK\Inventory.cpp(277,47): warning C4305:             _Ty=float
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\Lab8_DahlK\Inventory.cpp(277,47): warning C4305:         ]
+  C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\Lab8_DahlK\Inventory.cpp(277,47):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\Lab8_DahlK\Inventory.cpp(58,25):
+  	see reference to function template instantiation 'T addColor<Flat>(int)' being compiled
+          with
+          [
+              T=Flat
+          ]
+  
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\Lab8_DahlK\Inventory.cpp(246,12): warning C4101: 'g': unreferenced local variable
+  Lab8_DahlK.vcxproj -> C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab8_DahlK\x64\Debug\Lab8_DahlK.exe

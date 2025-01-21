@@ -1,0 +1,8 @@
+#     Paint Color   Number of Cans    Gloss Level (%)
+1             RED              6.4             4.8685
+2            BLUE             13.8            12.6555
+3          PURPLE             10.7            33.9035
+4            GRAY              5.2            27.5139
+5           BLACK              6.2            36.9678
+6          YELLOW              1.2            40.7909
+7           GREEN             12.5            86.4137

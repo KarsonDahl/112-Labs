@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Department.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Department.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Department.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Department.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF13AD99-AD23-4E9F-BFED-A37F5D1A9D10}|Lab7_DahlK\\Lab7_DahlK.vcxproj|solutionrelative:Lab7_DahlK\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cpp",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Manager.cpp",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Manager.cpp",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Manager.cpp",
+              "RelativeToolTip": "Lab7_DahlK\\Manager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T20:59:11.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Main.cpp",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Main.cpp",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Main.cpp",
+              "RelativeToolTip": "Lab7_DahlK\\Main.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAANkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T19:47:59.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.h",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Employee.h",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Employee.h",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Employee.h",
+              "RelativeToolTip": "Lab7_DahlK\\Employee.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T20:58:32.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Employee.cpp",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Employee.cpp",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Employee.cpp",
+              "RelativeToolTip": "Lab7_DahlK\\Employee.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T20:58:46.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.h",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Department.h",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Department.h",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Department.h",
+              "RelativeToolTip": "Lab7_DahlK\\Department.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T21:25:53.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Date.h",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Date.h",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Date.h",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Date.h",
+              "RelativeToolTip": "Lab7_DahlK\\Date.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T19:48:24.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.h",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Manager.h",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Manager.h",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Manager.h",
+              "RelativeToolTip": "Lab7_DahlK\\Manager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T20:59:34.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cpp",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Department.cpp",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Department.cpp",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Department.cpp",
+              "RelativeToolTip": "Lab7_DahlK\\Department.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAFcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T21:15:44.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Person.cpp",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Person.cpp",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Person.cpp",
+              "RelativeToolTip": "Lab7_DahlK\\Person.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T20:12:52.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Person.h",
+              "RelativeDocumentMoniker": "Lab7_DahlK\\Person.h",
+              "ToolTip": "C:\\Users\\TourL\\source\\repos\\Fall 2024\\CSCN 112\\Lab7_DahlK\\Lab7_DahlK\\Person.h",
+              "RelativeToolTip": "Lab7_DahlK\\Person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T20:16:07.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

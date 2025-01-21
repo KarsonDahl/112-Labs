@@ -1,0 +1,7 @@
+﻿  Department.cpp
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab7_DahlK\Lab7_DahlK\Department.cpp(7,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab7_DahlK\Lab7_DahlK\Department.cpp(43,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Employee.cpp
+  Main.cpp
+  Generating Code...
+  Lab7_DahlK.vcxproj -> C:\Users\TourL\source\repos\Fall 2024\CSCN 112\Lab7_DahlK\x64\Debug\Lab7_DahlK.exe
